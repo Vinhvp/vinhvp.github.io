@@ -160,6 +160,7 @@ header{
 .dish-discription > p{
     font-size: 23.76px;
     line-height:36px;
+    text-align: justify;
 }
 .dish-name, 
 .dish-discription {
